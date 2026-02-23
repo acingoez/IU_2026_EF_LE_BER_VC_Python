@@ -158,3 +158,37 @@ def finances():
         revenue=revenue,
         orders=data_manager.orders,
     )
+
+
+@bp.route("/sensors", methods=["GET", "POST"])
+def sensors():
+    """Sensordaten: Lazy vs. Eager Benchmark."""
+    result_eager = None
+    result_lazy = None
+    error = None
+
+    if request.method == "POST":
+        try:
+            from sensor_benchmark import benchmark_eager, benchmark_lazy
+
+            bed_id_raw = request.form.get("bed_id", "1").strip() or "1"
+            bed_id = int(bed_id_raw)
+
+            num_raw = (request.form.get("num_readings") or "10000").strip().replace(".", "").replace(",", "").replace(" ", "") or "10000"
+            num_readings = int(num_raw)
+            num_readings = max(1, min(num_readings, 500_000))
+
+            result_eager = benchmark_eager(bed_id, num_readings)
+            result_lazy = benchmark_lazy(bed_id, num_readings)
+        except ValueError as e:
+            error = f"Ungültiger Wert. Bitte nur Zahlen eingeben (z. B. 10000). Fehler: {e}"
+        except Exception as e:
+            error = str(e)
+
+    return render_template(
+        "sensors.html",
+        beds=data_manager.beds,
+        result_eager=result_eager,
+        result_lazy=result_lazy,
+        error=error,
+    )
