@@ -5,3 +5,5 @@ __pycache__/
 
 # PyCharm / IntelliJ Verzeichnis ausschließen
 .idea/
+
+src/student_projects/g03/data/rabbitfarm_data.json
