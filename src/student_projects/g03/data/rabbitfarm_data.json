@@ -2,22 +2,22 @@
   "beds": [
     {
       "id": 1,
-      "name": "Beet der Legenden",
+      "name": "Nordbeet",
       "size_m2": 14.5
     },
     {
       "id": 2,
-      "name": "Wildsau-Revier",
+      "name": "Suedbeet",
       "size_m2": 9.0
     },
     {
       "id": 3,
-      "name": "Sonnendeck Alpha",
+      "name": "Hochbeet 1",
       "size_m2": 18.0
     },
     {
       "id": 4,
-      "name": "Dunkle Seite des Beetes",
+      "name": "Gewaechshaus",
       "size_m2": 6.5
     }
   ],
