@@ -24,7 +24,7 @@
   "vegetables": [
     {
       "name": "Karotte",
-      "sort": "Nantaise Deluxe",
+      "sort": "Nantes",
       "plant_date": "2025-11-10T08:00:00",
       "harvest_date": "2026-03-01T10:00:00",
       "bed_id": 1,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Kopfsalat",
-      "sort": "Buttercrunch",
+      "sort": "Butterhead",
       "plant_date": "2026-01-15T09:00:00",
       "harvest_date": "2026-03-10T08:30:00",
       "bed_id": 3,
@@ -42,7 +42,7 @@
     },
     {
       "name": "Tomate",
-      "sort": "Schwarze Koenigin",
+      "sort": "Beefsteak",
       "plant_date": "2025-12-01T07:00:00",
       "harvest_date": "2026-03-18T09:00:00",
       "bed_id": 2,
@@ -51,7 +51,7 @@
     },
     {
       "name": "Zucchini",
-      "sort": "Gruener Riese",
+      "sort": "Black Beauty",
       "plant_date": "2026-01-05T10:00:00",
       "harvest_date": "2026-03-20T11:00:00",
       "bed_id": 1,
@@ -60,7 +60,7 @@
     },
     {
       "name": "Spinat",
-      "sort": "Gigant F1",
+      "sort": "Matador",
       "plant_date": "2025-12-20T08:00:00",
       "harvest_date": "2026-03-05T07:30:00",
       "bed_id": 4,
@@ -69,7 +69,7 @@
     },
     {
       "name": "Radieschen",
-      "sort": "Feuerball",
+      "sort": "Cherry Belle",
       "plant_date": "2026-02-01T09:30:00",
       "harvest_date": "2026-03-22T10:00:00",
       "bed_id": 3,
@@ -78,7 +78,7 @@
     },
     {
       "name": "Paprika",
-      "sort": "Roter Vulkan",
+      "sort": "Yolo Wonder",
       "plant_date": "2025-11-25T08:00:00",
       "harvest_date": "2026-03-15T09:00:00",
       "bed_id": 2,
@@ -87,7 +87,7 @@
     },
     {
       "name": "Kartoffel",
-      "sort": "Ratte de Prairie",
+      "sort": "Linda",
       "plant_date": "2025-10-01T07:00:00",
       "harvest_date": "2026-02-28T10:00:00",
       "bed_id": 1,
@@ -120,7 +120,7 @@
   "inventory": [
     {
       "name": "Karotte",
-      "sort": "Nantaise Deluxe",
+      "sort": "Nantes",
       "plant_date": "2025-11-10T08:00:00",
       "harvest_date": "2026-03-01T10:00:00",
       "bed_id": 1,
@@ -129,7 +129,7 @@
     },
     {
       "name": "Kopfsalat",
-      "sort": "Buttercrunch",
+      "sort": "Butterhead",
       "plant_date": "2026-01-15T09:00:00",
       "harvest_date": "2026-03-10T08:30:00",
       "bed_id": 3,
@@ -138,7 +138,7 @@
     },
     {
       "name": "Tomate",
-      "sort": "Schwarze Koenigin",
+      "sort": "Beefsteak",
       "plant_date": "2025-12-01T07:00:00",
       "harvest_date": "2026-03-18T09:00:00",
       "bed_id": 2,
@@ -147,7 +147,7 @@
     },
     {
       "name": "Zucchini",
-      "sort": "Gruener Riese",
+      "sort": "Black Beauty",
       "plant_date": "2026-01-05T10:00:00",
       "harvest_date": "2026-03-20T11:00:00",
       "bed_id": 1,
@@ -156,7 +156,7 @@
     },
     {
       "name": "Spinat",
-      "sort": "Gigant F1",
+      "sort": "Matador",
       "plant_date": "2025-12-20T08:00:00",
       "harvest_date": "2026-03-05T07:30:00",
       "bed_id": 4,
@@ -165,7 +165,7 @@
     },
     {
       "name": "Radieschen",
-      "sort": "Feuerball",
+      "sort": "Cherry Belle",
       "plant_date": "2026-02-01T09:30:00",
       "harvest_date": "2026-03-22T10:00:00",
       "bed_id": 3,
@@ -174,7 +174,7 @@
     },
     {
       "name": "Paprika",
-      "sort": "Roter Vulkan",
+      "sort": "Yolo Wonder",
       "plant_date": "2025-11-25T08:00:00",
       "harvest_date": "2026-03-15T09:00:00",
       "bed_id": 2,
@@ -183,7 +183,7 @@
     },
     {
       "name": "Kartoffel",
-      "sort": "Ratte de Prairie",
+      "sort": "Linda",
       "plant_date": "2025-10-01T07:00:00",
       "harvest_date": "2026-02-28T10:00:00",
       "bed_id": 1,
@@ -199,7 +199,7 @@
       "vegetables": [
         {
           "name": "Karotte",
-          "sort": "Nantaise Deluxe",
+          "sort": "Nantes",
           "plant_date": "2025-11-10T08:00:00",
           "harvest_date": "2026-03-01T10:00:00",
           "bed_id": 1,
@@ -208,7 +208,7 @@
         },
         {
           "name": "Radieschen",
-          "sort": "Feuerball",
+          "sort": "Cherry Belle",
           "plant_date": "2026-02-01T09:30:00",
           "harvest_date": "2026-03-22T10:00:00",
           "bed_id": 3,
@@ -226,7 +226,7 @@
       "vegetables": [
         {
           "name": "Kartoffel",
-          "sort": "Ratte de Prairie",
+          "sort": "Linda",
           "plant_date": "2025-10-01T07:00:00",
           "harvest_date": "2026-02-28T10:00:00",
           "bed_id": 1,
@@ -235,7 +235,7 @@
         },
         {
           "name": "Zucchini",
-          "sort": "Gruener Riese",
+          "sort": "Black Beauty",
           "plant_date": "2026-01-05T10:00:00",
           "harvest_date": "2026-03-20T11:00:00",
           "bed_id": 1,
@@ -253,7 +253,7 @@
       "vegetables": [
         {
           "name": "Kopfsalat",
-          "sort": "Buttercrunch",
+          "sort": "Butterhead",
           "plant_date": "2026-01-15T09:00:00",
           "harvest_date": "2026-03-10T08:30:00",
           "bed_id": 3,
@@ -262,7 +262,7 @@
         },
         {
           "name": "Spinat",
-          "sort": "Gigant F1",
+          "sort": "Matador",
           "plant_date": "2025-12-20T08:00:00",
           "harvest_date": "2026-03-05T07:30:00",
           "bed_id": 4,
@@ -280,7 +280,7 @@
       "vegetables": [
         {
           "name": "Tomate",
-          "sort": "Schwarze Koenigin",
+          "sort": "Beefsteak",
           "plant_date": "2025-12-01T07:00:00",
           "harvest_date": "2026-03-18T09:00:00",
           "bed_id": 2,
@@ -289,7 +289,7 @@
         },
         {
           "name": "Paprika",
-          "sort": "Roter Vulkan",
+          "sort": "Yolo Wonder",
           "plant_date": "2025-11-25T08:00:00",
           "harvest_date": "2026-03-15T09:00:00",
           "bed_id": 2,
