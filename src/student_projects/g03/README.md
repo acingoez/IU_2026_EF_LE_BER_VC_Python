@@ -157,17 +157,6 @@ g03/
 
 ---
 
-## CI-Pipeline
-
-Die CI-Pipeline (`.github/workflows/python-check.yml`) führt bei jedem Push folgende Schritte aus:
-
-1. `pip install -r requirements.txt`
-2. `ruff format --check .` – Formatierungsprüfung
-3. `ruff check .` – Linting
-4. `pytest` – Tests ausführen
-
----
-
 ## Bekannte Einschränkungen
 
 - **Keine Authentifizierung:** Die Web-App hat kein Login-System.
